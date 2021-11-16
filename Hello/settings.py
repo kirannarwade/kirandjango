@@ -33,7 +33,7 @@ ALLOWED_HOSTS = ['kirandjango.herokuapp.com', 'git.heroku.com/kirandjango.git']
 # Application definition
 
 INSTALLED_APPS = [
-    'home.apps.HomeConfig',
+    'home',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
