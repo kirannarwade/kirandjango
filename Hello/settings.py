@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-@(bkal!se_t8=-xs7dcy!ja@(ah=37+5-dyk0u(t5bca1b@(5v
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['kirandjango.herokuapp.com', 'git.heroku.com/kirandjango.git']
+ALLOWED_HOSTS = ['kirandjango.herokuapp.com',"kirandjango.herokuapp.com", 'git.heroku.com/kirandjango.git']
 
 
 # Application definition
